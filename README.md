@@ -10,3 +10,4 @@ git pull
 git add README.md
 git commit -m "command"
 git push -u origin master
+hahaha
